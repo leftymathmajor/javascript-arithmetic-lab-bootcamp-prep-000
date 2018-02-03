@@ -1,2 +1,2 @@
 var number = a, b;
-function add
+function add a(b){number + 
