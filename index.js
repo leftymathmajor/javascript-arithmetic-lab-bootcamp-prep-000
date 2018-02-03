@@ -1,2 +1,1 @@
-var number = a, b;
-function add((a,b)){number+=('a+b')}
+var number = (a, b);
